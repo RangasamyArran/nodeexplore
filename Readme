@@ -6,4 +6,10 @@
 	Support asynchronous and none blocking code by default
 	Supports modular javascript
 	it is written in C, C++ and some APIs are in javascript
-</li>
+When to use Node
+	Real-time applications
+	I/O bound applications
+	Data Streaming applications
+When not to use
+	CPU intensive operations
+	
