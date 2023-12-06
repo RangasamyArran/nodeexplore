@@ -1,0 +1,9 @@
+<h1>What is Node.js </h1>
+<li>
+	Node is service side javascript framework 
+	It is event driven and single thread
+	It is build with JavaScript V8 Google javascript engine
+	Support asynchronous and none blocking code by default
+	Supports modular javascript
+	it is written in C, C++ and some APIs are in javascript
+</li>
